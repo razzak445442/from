@@ -1,0 +1,140 @@
+@media  (min-width:1200px){
+    .minDiv{
+       
+        background-color: rgba(48, 233, 70, 0.621);
+        left: 20%;
+        
+    }
+}
+
+
+@media (min-width:992px) and (max-width:1199px){
+    .minDiv{
+       
+        background-color: red;
+        left: 10%;
+        
+    }
+}
+
+
+@media (min-width:768px) and (max-width:991px){
+    .minDiv{
+       
+        background-color: green;
+        left: 5%;
+        
+    }
+}
+
+@media (min-width:576px) and (max-width:767px){
+    .minDiv{
+       
+        background-color: yellow;
+        left: 2%;
+        width: 650px;
+        
+    }
+    .Imdiv{
+        left: 100px;
+        
+        
+      
+    }
+    .Inpdiv{
+        left: 50px;
+       
+
+        
+    
+    }
+    .btn{
+        left: 60%;
+      
+        
+    }
+    .ScoundDiv{
+       width: 350px;
+     
+       
+      
+        
+    }
+    h2{
+        left: 30px;
+    }
+    .btn-2{
+        left: 40px;
+    }
+    .extcss{
+        position: absolute;
+        right: 5px;
+    }
+       
+    .extcss1{
+      
+        left:70px;
+       
+    
+    }
+}
+@media(max-width:575px)
+{
+    .minDiv{
+       
+        background-color: blue;
+        left: 0px;
+        
+    }
+    .Imdiv{
+      
+        
+        
+      
+    }
+    .Inpdiv{
+        
+       
+
+        
+    
+    }
+    .btn{
+        left: 430px;
+       
+      
+        
+    }
+    .ScoundDiv{
+       
+     
+       
+      
+        
+    }
+    h2{
+        
+    }
+   
+    }
+    .extcss{
+       
+    }
+       
+    .extcss1{
+      
+     
+       
+    
+}
+
+@media (max-width:575px){
+    .extcss1{
+      left: 150px;
+     
+       
+    
+    }
+   
+
+}
